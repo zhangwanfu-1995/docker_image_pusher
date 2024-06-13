@@ -1,1 +1,1 @@
-xrsec/awvs:24.4.240427095
+secfa/awvs:latest
