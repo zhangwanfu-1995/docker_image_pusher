@@ -1,1 +1,1 @@
-tenableofficial/nessus:latest
+witersencom/svnadmin:2.5.9
