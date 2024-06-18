@@ -1,1 +1,4 @@
 kubesphere/openpitrix-jobs:v3.3.2
+kubesphere/log-sidecar-injector:v1.2.0
+kubesphere/devops-tools:ks-v3.4.1
+kubesphere/ks-jenkins:v3.4.0-2.319.3-1
