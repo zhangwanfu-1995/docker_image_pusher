@@ -1,1 +1,1 @@
-kubesphere/openpitrix-jobs:v3.3.2
+kubesphere/devops-tools:ks-v3.4.1
