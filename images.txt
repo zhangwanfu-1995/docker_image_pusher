@@ -1,1 +1,1 @@
-mongo:4.4.13
+tdengine/tdengine:3.0.4.0
