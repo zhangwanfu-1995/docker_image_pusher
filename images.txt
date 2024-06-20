@@ -1,4 +1,1 @@
-postgres:13
-sonarqube:datacenter-search
-sonarqube:datacenter-app
-jwilder/nginx-proxy
+mongo:4.4.13
