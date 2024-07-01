@@ -1,3 +1,1 @@
-rabbitmq:3.13.3-management-alpine
-minio/minio:latest
-redis:7.2.5-alpine3.20
+nginx:1.27.0-alpine3.19
