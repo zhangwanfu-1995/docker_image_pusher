@@ -1,9 +1,9 @@
-emqx/emqx:5.0.21
-tdengine/tdengine:3.2.3.0
+ibmcom/db2:11.5.8.0
+thanosio/thanos:v0.31.0
 kubesphere/prometheus-config-reloader:v0.55.1
-prom/prometheus:v2.39.1
-kubesphere/elasticsearch-oss:6.8.22
-kubesphere/kube-auditing-webhook:v0.2.0
-bitnami/metrics-server:0.5.2
-kubesphere/prometheus-operator:v0.55.1
-kubesphere/kube-rbac-proxy:v0.11.0
+docker:19.03
+kubesphere/fluentbit-operator:v0.14.0
+kubesphere/kube-state-metrics:v2.6.0
+kubesphere/notification-manager:v2.3.0
+kubesphere/notification-tenant-sidecar:v3.2.0
+kubesphere/prometheus-config-reloader:v0.55.1
