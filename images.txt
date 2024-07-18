@@ -1,1 +1,9 @@
-tomcat:9.0.91-jdk8
+emqx/emqx:5.0.21
+tdengine/tdengine:3.2.3.0
+kubesphere/prometheus-config-reloader:v0.55.1
+prom/prometheus:v2.39.1
+kubesphere/elasticsearch-oss:6.8.22
+kubesphere/kube-auditing-webhook:v0.2.0
+bitnami/metrics-server:0.5.2
+kubesphere/prometheus-operator:v0.55.1
+kubesphere/kube-rbac-proxy:v0.11.0
