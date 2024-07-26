@@ -1,1 +1,1 @@
-postgres:16.3
+rockylinux:9.3.20231119
