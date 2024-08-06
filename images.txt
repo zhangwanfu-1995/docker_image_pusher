@@ -1,1 +1,1 @@
-mysql:5.7.36
+haproxy:3.0.3-alpine3.20
