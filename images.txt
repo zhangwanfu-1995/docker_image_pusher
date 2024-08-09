@@ -1,1 +1,1 @@
-haproxy:3.0.3-alpine3.20
+nacos/nacos-server:v2.3.2
