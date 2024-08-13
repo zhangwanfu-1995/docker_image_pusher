@@ -1,1 +1,4 @@
-nacos/nacos-server:v2.3.2
+witersencom/svnadmin:2.5.7
+witersencom/svnadmin:2.5.3
+witersencom/svnadmin:2.5.8
+witersencom/svnadmin:2.5.6
