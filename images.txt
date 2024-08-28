@@ -1,4 +1,1 @@
-witersencom/svnadmin:2.5.7
-witersencom/svnadmin:2.5.3
-witersencom/svnadmin:2.5.8
-witersencom/svnadmin:2.5.6
+gcr.io/cadvisor/cadvisor-amd64:v0.50.0
