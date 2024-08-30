@@ -1,1 +1,4 @@
-gcr.io/cadvisor/cadvisor-amd64:v0.50.0
+docker.io/bitnami/influxdb:2.7.1-debian-11-r11
+kubesphere/kube-events-ruler:v0.6.0
+jimmidyson/configmap-reload:v0.7.1
+docker.io/bitnami/minio:2023.3.9-debian-11-r0
