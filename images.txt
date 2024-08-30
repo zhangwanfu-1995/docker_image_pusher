@@ -1,2 +1,1 @@
-docker.io/bitnami/kafka:3.4.0-debian-11-r6
-redis:5.0.14-alpine
+prom/alertmanager:v0.23.0
