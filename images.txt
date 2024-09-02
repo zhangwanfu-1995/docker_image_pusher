@@ -1,1 +1,2 @@
-prom/alertmanager:v0.23.0
+kubesphere/ks-controller-manager:v3.4.1
+kubesphere/ks-apiserver:v3.4.1
