@@ -1,2 +1,2 @@
-immauss/openvas
-immauss/scannable
+immauss/openvas:24.10.1
+
