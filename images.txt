@@ -1,2 +1,1 @@
-immauss/openvas:24.10.1
-
+registry:2.8.3
