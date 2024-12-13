@@ -1,1 +1,1 @@
-coredns/coredns:1.11.4
+k8s.m.daocloud.io/metrics-server/metrics-server:v0.7.2
