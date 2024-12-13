@@ -1,1 +1,5 @@
-ubuntu:24.10
+calico/typha:v3.28.2
+calico/csi:v3.28.2
+calico/pod2daemon-flexvol:v3.28.2
+calico/kube-controllers:v3.28.2
+calico/node-driver-registrar:v3.28.2
