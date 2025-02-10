@@ -1,1 +1,1 @@
-bitnami/rabbitmq:3.11.10-debian-11-r0
+alpine:3.21.2
