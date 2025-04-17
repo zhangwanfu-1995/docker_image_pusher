@@ -1,1 +1,2 @@
-alpine:3.21.2
+velero/velero:v1.16.0
+velero/velero-plugin-for-aws:v1.12.0
