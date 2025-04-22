@@ -1,1 +1,1 @@
-arm64v8/rabbitmq:3.13.7-management
+mysql:8.4.5-oraclelinux9
