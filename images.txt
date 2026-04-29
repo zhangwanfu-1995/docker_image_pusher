@@ -1,9 +1,3 @@
-sonatype/nexus3:3.86.2
-sonatype/nexus3:3.86.3
-sonatype/nexus3:3.87.0
-sonatype/nexus3:3.87.1
-sonatype/nexus3:3.87.2
-sonatype/nexus3:3.87.3
 sonatype/nexus3:3.88.0
 sonatype/nexus3:3.89.0
 sonatype/nexus3:3.89.1
