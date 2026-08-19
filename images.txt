@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:18.11.11-ce.0
+ dhi.io/postgres:17.11-alpine3.23
