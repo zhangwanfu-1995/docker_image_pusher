@@ -1,1 +1,1 @@
-openvpn/openvpn-as:3.2.2-413ca39f-Ubuntu24
+openvpn/openvpn-as:2.14.3-5936bcd7-Ubuntu24
