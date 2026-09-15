@@ -1,13 +1,1 @@
-quay.io/cilium/cilium:v1.20.1
-quay.io/cilium/cilium-envoy:v1.37.5-1786810558-766ccfb37260a43e9d228837aa84ce3faf9f64e7
-quay.io/cilium/clustermesh-apiserver:v1.20.1
-docker.io/library/busybox:1.38.0
-ghcr.io/spiffe/spire-agent:1.15.2
-ghcr.io/spiffe/spire-server:1.15.2
-quay.io/cilium/ztunnel:v1.0.0
-quay.io/cilium/certgen:v0.4.9
-quay.io/cilium/hubble-relay:v1.20.1
-quay.io/cilium/hubble-ui-backend:v0.13.5
-quay.io/cilium/hubble-ui:v0.13.5
-quay.io/cilium/operator:v1.20.1
-quay.io/cilium/startup-script:1782916218-36ae25f
+quay.io/cilium/operator-generic:v1.20.1
