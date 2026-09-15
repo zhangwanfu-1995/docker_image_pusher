@@ -1,1 +1,1 @@
-openvpn/openvpn-as:2.14.3-5936bcd7-Ubuntu24
+nginx:1.30.4-alpine3.24
