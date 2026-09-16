@@ -1,1 +1,1 @@
-quay.io/cilium/operator-generic:v1.20.1
+nginx:1.30.4-alpine3.24
