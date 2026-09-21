@@ -1,1 +1,3 @@
-mysql:8.4.11
+netbirdio/netbird-server:0.79.0
+netbirdio/dashboard:sha-b2e658a
+traefik:v3.6
