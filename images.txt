@@ -1,3 +1,3 @@
-netbirdio/netbird-server:0.79.0
-netbirdio/dashboard:sha-b2e658a
+netbirdio/netbird-server:latest
+netbirdio/dashboard:latest
 traefik:v3.6
