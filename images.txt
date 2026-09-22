@@ -1,3 +1,1 @@
-netbirdio/netbird-server:latest
-netbirdio/dashboard:latest
-traefik:v3.6
+ netbirdio/netbird:latest
