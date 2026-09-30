@@ -1,1 +1,1 @@
-netbirdio/dashboard:latest
+gitlab/gitlab-ce:18.11.12-ce.0
